@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 390 844" width="390" height="844">
+  <rect width="390" height="844" fill="#111827" />
+  <rect x="20" y="40" width="350" height="60" rx="10" fill="#1e293b" />
+  <text x="50" y="80" fill="white" font-family="sans-serif" font-size="24">Routine Master</text>
+  <rect x="20" y="120" width="350" height="150" rx="15" fill="#3b82f6" fill-opacity="0.2" />
+  <rect x="40" y="140" width="310" height="20" rx="5" fill="#3b82f6" />
+  <rect x="40" y="180" width="200" height="15" rx="5" fill="#94a3b8" />
+  <rect x="40" y="210" width="250" height="15" rx="5" fill="#94a3b8" />
+</svg>

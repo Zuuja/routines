@@ -1,0 +1,40 @@
+{
+  "name": "Routine Master",
+  "short_name": "Routines",
+  "description": "Master your daily routines with a beautiful sunrise view.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#3B82F6",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icons/icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/mobile.svg",
+      "sizes": "390x844",
+      "type": "image/svg+xml",
+      "form_factor": "narrow",
+      "label": "Mobile view of Routine Master"
+    },
+    {
+      "src": "screenshots/desktop.svg",
+      "sizes": "1280x800",
+      "type": "image/svg+xml",
+      "form_factor": "wide",
+      "label": "Desktop view of Routine Master"
+    }
+  ]
+}
